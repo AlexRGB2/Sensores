@@ -49,12 +49,10 @@ void loop() {
     matrix.print(F("Alexis Martinez"));
     matrix.print(F(" Derecha"));
   } else {
-    matrix.print(F("Gabriel Morales"));
+    matrix.print(F("Alexis Martinez"));
     matrix.print(F(" Izquierda"));
   }
-
-  // matrix.print(F("Marisol"));
-  // matrix.print(F("Valor: " + switchState));
+  
   matrix.show();
   delay(100);
 }
