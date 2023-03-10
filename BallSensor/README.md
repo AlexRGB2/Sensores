@@ -1,3 +1,3 @@
-# Diagrama Sensor de Temperatura Analogico
+# Diagrama Sensor de Inclinación
 
 ![Diagrama](BallSensor.png)
